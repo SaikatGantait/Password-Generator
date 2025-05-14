@@ -96,7 +96,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgments
 
-* Inspired by Python beginners' projects
 * Thanks to the open-source community
 
 ---
